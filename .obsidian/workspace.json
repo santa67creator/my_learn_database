@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "8e9a372a8a2b670c",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d6b32580e05763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "346e56654cbb2fe0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Assembly(CS)/ICT/Учебно-методические комплексы дисциплин(2).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Учебно-методические комплексы дисциплин(2)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25e3f79cec1fc453",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb855f0e9198c67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5698d06fbcaa3f16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a7334642254400cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "522006a133d9ad4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8a2c4c81cb9b7a03",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.749942779541
+  },
+  "right": {
+    "id": "e0bd3f277aa3db7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5439083889f95ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c871d7eaf5ae5370",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a3b7432ee52bd8fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ccc824b37c632643",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e73884103fb5402c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e331aab48d669ef3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "346e56654cbb2fe0",
+  "lastOpenFiles": [
+    "MATH/Theme for begin.md",
+    "Assembly(CS)/ICT/лаб 6 (1).docx",
+    "Assembly(CS)/ICT/7 лекция Интернет-технологии.pdf",
+    "Assembly(CS)/ICT/Учебно-методические комплексы дисциплин(2).pdf",
+    "Assembly(CS)/ICT/MAIN ICT BEGIN.md",
+    "MATH/ТПР/TPRblank.pdf",
+    "MATH/ТВиМС/Учебно-методические комплексы дисциплин(1).pdf",
+    "MATH/ТПР/Учебно-методические комплексы дисциплин.pdf",
+    "MATH/ТВиМС/11 Закон больших чисел. Теорема Чебышева.md",
+    "MATH/ТПР/01 Основные понятия ТПР.md",
+    "MATH/ТПР/00 Оглавление.md",
+    "MATH/ТВиМС/14 Нормальное и показательное распределения.md",
+    "MATH/ТВиМС/15 Статистическое распределение выборки.md",
+    "MATH/ТВиМС/13 Числовые характеристики непрерывной СВ.md",
+    "MATH/ТВиМС/01 Комбинаторика.md",
+    "MATH/ТВиМС/06 Формула Бернулли.md",
+    "MATH/ТПР/работа за 10 неделю (1).docx",
+    "MATH/ТПР/работа за 9 неделю.docx",
+    "MATH/ТПР/работа за 7 неделю.docx",
+    "MATH/ТВиМС/07 Формула Пуассона. Теоремы Лапласа.md",
+    "MATH/ТВиМС/08 Случайные величины. Закон распределения.md",
+    "MATH/ТВиМС/09 Биномиальное и геометрическое распределение.md",
+    "MATH/ТПР/Презентация_Лекция10_ТПР_261111_172242.pdf",
+    "Assembly(CS)/HOW WORKS CORE/Защищенный режим (Protected mode).md",
+    "MATH/ТПР/PRACTICE-1.md",
+    "Excalidraw/Drawing 2026-10-21 09.59.12.excalidraw.md",
+    "Assembly(CS)/HOW WORKS CORE/report.md",
+    "2026-10-21.md",
+    "Untitled.canvas",
+    "Assembly(CS)/00 MAIN ALL ();.md",
+    "Assembly(CS)/HOW WORKS CORE/Program Counter (Указатель на следующую команду).md",
+    "Assembly(CS)/HOW WORKS CORE/Processor operating modes (Режимы работы процессора).md",
+    "Assembly(CS)/HOW WORKS CORE/CORE.md",
+    "Assembly(CS)/HOW WORKS CORE/Opcode (Опкоды, инструкций).md",
+    "Assembly(CS)/HOW WORKS CORE/Переполнение регистра (register overflow).md",
+    "Assembly(CS)/HOW WORKS CORE/Special-purpose registers.md",
+    "img/Pasted image 20261019112803.png",
+    "img/2026-09-06-133002_hyprshot.png",
+    "img/Pasted image 20260901161509.png",
+    "img/Template01_Chommang.jpg",
+    "img/Pasted image 20261009115033.png",
+    "img/Pasted image 20261010205618.png",
+    "img/Pasted image 20261010204604.png",
+    "img/Pasted image 20261009121351.png",
+    "img/Pasted image 20261009121450.png",
+    "img/Pasted image 20261009122221.png",
+    "Assembly/Memory/Untitled.canvas"
+  ]
+}
