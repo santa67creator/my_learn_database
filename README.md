@@ -43,6 +43,11 @@ The notes use Obsidian wiki-links to connect related topics.
 
 ## GitHub preview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7455afc-7754-4816-a148-a9db407dcd7a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/04b5846d-b74d-4485-8814-80dc19a49f9a" />
+
+
 The vault is designed to be read in Obsidian. GitHub may display Obsidian wiki-links as plain text instead of clickable links.
 
 ## Translation notes
